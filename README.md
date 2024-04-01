@@ -1,1 +1,3 @@
 # uhh
+needed to press f3 and g at the same time to highlight chunks in minecraft but holding my 60% keyboards fn key modifies and like fuck shit. 
+so we gotta pyautogui on they ass.....
